@@ -1,4 +1,4 @@
-# Master's Degree Assignments (Software Engineering)
+# Master's Degree Assignments (Software Engineering Specialization)
 
 This repository contains selected assignments, projects, and labs completed as part of my Master's in Computer Science with a specialization in Software Engineering.
 
